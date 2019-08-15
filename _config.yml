@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 logo: https://raw.githubusercontent.com/itenyh/AnkiDict/master/appicon.png
 show_downloads: true
+ios_app_url: https://itunes.apple.com/cn/app/id1447868340?mt=8
 
 github:
   is_project_page: false
