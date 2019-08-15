@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 logo: https://raw.githubusercontent.com/itenyh/AnkiDict/master/appicon.png
-github.is_project_page: False
+site.show_downloads: False
+github.is_project_page: ''
