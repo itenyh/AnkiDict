@@ -3,34 +3,17 @@
 
 AnkiDict是一本电子词典，涵盖牛津高阶14W词汇，涵盖COCA常用6W词汇；AnkiDict同时支持对查过的单词进行收集整理，所有的集合可以通过多个模板生成不同样式的Anki牌组，利用Anki强大的记忆复习机制，让你把查过的单词通过都能够记住！
 
-### Markdown
+### AnkDict有什么
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 14W+海量词汇
+2. 丰富例句搭配解释，可自由选择例句导入Anki牌组
+3. 一键生成Anki牌组，一键导入Anki软件
+4. 支持牌组apkg文件下载
 
-```markdown
-Syntax highlighted code block
+### AnkDict没有什么
 
-# Header 1
-## Header 2
-### Header 3
+AnkiDict把专业的事交给专业的软件处理，AnkiDict自身不提供背诵复习机制，AnkiDict将其交由Anki软件全权负责。
 
-- Bulleted
-- List
+### 有建议或者遇到Bug怎么办
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itenyh/AnkiDict/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+作为一名独立开发者，从产品的设计、UI交互设计、代码编写、产品测试均由有限人员参与，特别在产品测试环节，难免会有出乎意料的Bug，也许你会碰见某个按钮漂移到一个莫名巧妙的位置。为了及时解决您遇到的问题，搜集用户需求，除了App内部的邮箱外，您还可以加入我们的微信群及时反馈您的信息。
