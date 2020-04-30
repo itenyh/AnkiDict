@@ -32,5 +32,3 @@
 
 方法2：导入自有语音资源
 如果想使用自有语音资源，如您有happy这个单词的mp3文件，请存为happy.mp3并放入文件夹，文件夹命名为audio，通过iTunes-文件共享-Anki英辞，传入您的audio文件，注意如果已经存在audio文件，则以前的语音文件将会被覆盖。
-
-![markdown](https://github.com/itenyh/AnkiDict/blob/master/audio_instruction.png?raw=true)
