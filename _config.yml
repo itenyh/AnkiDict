@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 logo: https://raw.githubusercontent.com/itenyh/AnkiDict/master/appicon.png
 show_downloads: true
 ios_app_url: https://itunes.apple.com/cn/app/id1447868340?mt=8
-ios_app_name: Anki英辞 2.0.0
+ios_app_name: Anki英辞 3.3.1
 
 github:
   is_project_page: false
